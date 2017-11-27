@@ -137,7 +137,7 @@ class PomodoroApp extends Component {
         },
         {
           id: 5,
-          secondsLeft: 1500,
+          secondsLeft: 900,
           clockState: "Long Break",
           increment: null
         }
